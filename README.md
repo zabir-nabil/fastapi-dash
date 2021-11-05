@@ -1,5 +1,5 @@
 # fastapi-dash
-Simple dashboard with interactive plots with FastAPI
+Simple dashboard with interactive plots with FastAPI, Jinja2, Highcharts
 
 # Uses
 - [x] FastAPI
